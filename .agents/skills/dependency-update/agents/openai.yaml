@@ -1,0 +1,3 @@
+name: dependency-update
+model: o3-mini
+description: Automatically updates project dependencies to their latest compatible versions, runs tests, and creates a summary of changes.
